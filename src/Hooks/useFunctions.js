@@ -1,5 +1,6 @@
 "use client";
 
+import axios from "axios";
 import { useState, useEffect } from "react";
 import { useForm } from "react-hook-form";
 
@@ -41,18 +42,38 @@ const useFunctions = () => {
   ];
 
   // Handle Submit for Submit Button
-  const onSubmit = (data) => {
+  const onSubmit = async (data) => {
     setIsProcessing(true);
-    if (step < step.length - 1) {
-      setStep((prevStep) => prevStep + 1);
-    } else {
-      console.log(data);
-      setTimeout(() => {
-        setIsProcessing(false), alert("Form submitted successfully!");
-        reset();
-        setStep(0);
-      }, 1000);
-    }
+
+    console.log(data);
+    setTimeout(() => {
+      setIsProcessing(false), alert("Form submitted successfully!");
+      reset();
+      setStep(0);
+    }, 1000);
+
+    // try {
+    //   const response = await axios.post("/api/submit", data);
+    //   setIsProcessing(false);
+    //   alert(response.data.message);
+    //   reset();
+    //   setStep(0);
+    // } catch (error) {
+    //   setIsProcessing(false);
+    //   alert("Error submitting form");
+    // }
+
+    // setIsProcessing(true);
+    // if (step < step.length - 1) {
+    //   setStep((prevStep) => prevStep + 1);
+    // } else {
+    //   console.log(data);
+    //   setTimeout(() => {
+    //     setIsProcessing(false), alert("Form submitted successfully!");
+    //     reset();
+    //     setStep(0);
+    //   }, 1000);
+    // }
   };
 
   // Handle Dark Mode Functions
