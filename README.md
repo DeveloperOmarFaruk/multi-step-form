@@ -35,9 +35,12 @@
 #
 ### `Project Run Command`
 #
-1. npm install
-2. npm run dev
-3. http://localhost:3000
+1. Download this repository
+2. Unzip this file
+3. Open the terminal
+4. Write the command “npm install”
+5. Also, write this command “npm run dev”
+6. And click this URL “http://localhost:3000/”
     
 
 #
