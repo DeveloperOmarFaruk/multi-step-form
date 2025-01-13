@@ -22,9 +22,8 @@
 5. React Hook Form
 6. React Font Awesome
 7. HTML5
-8. CSS3
-9. Tailwind CSS
-10. ShadCN ui
+8. Tailwind CSS
+9. ShadCN ui
 
 
 #
