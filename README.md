@@ -8,48 +8,62 @@
 #
 ![image](https://github.com/user-attachments/assets/660284b6-6f78-47ab-988f-bf84e465dc03)
 ![image](https://github.com/user-attachments/assets/0e885b44-0ce4-4237-9990-4696d2d72903)
-
-
-
 #
-
-
+### `Folder Structure Overview`
+#
+![image](https://github.com/user-attachments/assets/d32f1df2-50ff-4639-b63a-a8b00eaae6b7)
 #
 ### `Technology Use`
 #
-1. React JS
+1. Next JS
 2. React Hooks
 3. Event Handlers
 4. Arrow Functions
-5. html2canvas
-6. Font Awesome
-7. Google Fonts
-8. HTML5
-9. CSS3
+5. React Hook Form
+6. React Font Awesome
+7. HTML5
+8. CSS3
+9. Tailwind CSS
+10. ShadCN ui
 
 
 #
 ### `Project Deploy`
 #
-1. Netlify
+1. Vercel
+2. Netlify
 
 #
-### `Project Run`
+### `Project Run Command`
 #
 1. npm install
-2. npm run start
+2. npm run dev
     
 
 #
-### `Project View`
+### `Project View Dark & White Mood`
+#
+![image](https://github.com/user-attachments/assets/eca2628a-6f4a-410b-a3ae-240bc2dfc89f)
+#
+![image](https://github.com/user-attachments/assets/41aa7fd3-9c2f-4cf2-aea0-e7194d883342)
+#
+![image](https://github.com/user-attachments/assets/fb825a8f-d1b2-4b48-a4ac-4d5dcc77bb4a)
+#
+![image](https://github.com/user-attachments/assets/684101c8-f413-4301-a8d0-ccc130f87b8d)
+#
+![image](https://github.com/user-attachments/assets/ca455166-40cb-4ced-b87c-a9c6d20eeaff)
+#
+![image](https://github.com/user-attachments/assets/1d85cb45-723f-45b7-a4b3-ee1da560b5c4)
+#
+![image](https://github.com/user-attachments/assets/c557f05d-ae8e-492e-bd79-d46329914d48)
+#
+![image](https://github.com/user-attachments/assets/b4cf518c-e222-4b14-be7d-3e4dd1a3c1cf)
+#
+![image](https://github.com/user-attachments/assets/647385cb-3537-4c30-9dcb-513021419451)
 #
 
-![image](https://github.com/user-attachments/assets/1602cba8-deab-4d9f-8137-237cbf553cd8)
-
-#
 
 
-![image](https://github.com/user-attachments/assets/d32f1df2-50ff-4639-b63a-a8b00eaae6b7)
 
 
 
