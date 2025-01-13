@@ -24,6 +24,7 @@
 7. HTML5
 8. Tailwind CSS
 9. ShadCN ui
+10. Axios
 
 
 #
