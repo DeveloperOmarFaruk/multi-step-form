@@ -1,14 +1,3 @@
-multi-step-form/
-├── src/                
-│   ├── app/            
-|   |   ├── page.js
-│   ├── components/     
-│   |   ├── MultiStepForm.js        
-│   |   ├── Step1.js       
-│   |   ├── Step2.js          
-│   |   ├── Step3.js         
-│   ├── Hooks/       
-│   |   ├── useFunctions.js          
-│   ├── lib/         
-│   |   ├── utils.js/          
+![image](https://github.com/user-attachments/assets/e9f57817-6dbe-4fbe-b086-ca70fa90cc17)
+
 
